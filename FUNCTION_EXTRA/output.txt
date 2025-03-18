@@ -1,0 +1,2 @@
+Enter your number fpr squre : 
+Square value of your number is : 144

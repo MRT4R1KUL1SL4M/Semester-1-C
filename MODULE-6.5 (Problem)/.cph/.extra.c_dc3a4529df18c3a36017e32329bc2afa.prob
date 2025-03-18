@@ -1,0 +1,1 @@
+{"name":"Local: extra","url":"d:\\Phitron\\MODULE-6.5 (Problem)\\extra.c","tests":[{"id":1715453766263,"input":"39","output":"YES"},{"id":1715453779847,"input":"64","output":"NO"},{"id":1715454241550,"input":"10","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\MODULE-6.5 (Problem)\\extra.c","group":"local","local":true}
